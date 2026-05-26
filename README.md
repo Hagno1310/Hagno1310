@@ -2,7 +2,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nguyenquocanhz-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Hagno1310)
+[![GitHub](https://img.shields.io/badge/GitHub-Hagno1310-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Hagno1310)
 
 </div>
 
