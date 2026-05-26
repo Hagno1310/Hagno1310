@@ -1,14 +1,8 @@
 <div align="center">
-<!-- TYPING SVG -->
-<a href="https://nguyenquocanh.io.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Full-Stack+Developer+%7C+Technical+Lead;Nuxt.js+%2B+.NET+10+%2B+MySQL+%7C+HCMC%2C+Vietnam;Building+products+that+matter+at+Gems+Software" alt="Typing SVG" />
-</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white)](https://nguyenquocanh.io.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-nguyenquocanhz-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/nguyenquocanhz)
-[![Telegram](https://img.shields.io/badge/Telegram-@nqatech2003-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)](https://t.me/nqatech2003)
+[![GitHub](https://img.shields.io/badge/GitHub-nguyenquocanhz-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Hagno1310)
 
 </div>
 
