@@ -1,33 +1,125 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hoàng Nguyễn Huy
-=========================================================================================================================================
+<div align="center">
+<!-- TYPING SVG -->
+<a href="https://nguyenquocanh.io.vn">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Full-Stack+Developer+%7C+Technical+Lead;Nuxt.js+%2B+.NET+10+%2B+MySQL+%7C+HCMC%2C+Vietnam;Building+products+that+matter+at+Gems+Software" alt="Typing SVG" />
+</a>
 
-Backend Developer
------------------
+<br/>
 
-* 🌍  I'm based in Ha Noi, Vietnam
-* ✉️  You can contact me at [hoangnh.ptit@gmail.com](mailto:hoangnh.ptit@gmail.com)
-* 🚀  I'm currently working on [OpenNezt Coding Assessment](http://opennezt.com)
-* 🧠  I'm currently learning nestjs
+[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white)](https://nguyenquocanh.io.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-nguyenquocanhz-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/nguyenquocanhz)
+[![Telegram](https://img.shields.io/badge/Telegram-@nqatech2003-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)](https://t.me/nqatech2003)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" alt="Babel" title="Babel" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/hagno1310" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/hagno1310" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
-<a href="https://www.github.com/hagno1310" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hagno1310?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+## `> whoami`
 
-<b>My GitHub Stats</b>
+```yaml
+name        : Nguyễn Huy Hoang
+alias       : Nguyn Hoen / Hagno
+role        : Backend Developer
+company     : OpenNezt
+location    : Hà Nội City, Vietnam 🇻🇳
+education   : RIPT - PTIT |  GPA 3.43 / 4.0 
+started     : "~14 tuổi — thích thú với các kiến thức về Công nghệ"
+interests   : [ Developer Tooling, AI x Engineering ]
+```
 
-<a href="http://www.github.com/hagno1310"><img src="https://github-readme-stats.vercel.app/api?username=hagno1310&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hagno1310's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/hagno1310"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hagno1310&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## `> tech_stack --all`
 
-<a href="https://github.com/hagno1310" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagno1310&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
 
-<b>Top Repositories</b>
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### Data &amp; DevOps
+![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)
+
+### AI &amp; Tools
+![Claude API](https://img.shields.io/badge/Claude_API-D4A017?style=flat-square&amp;logo=anthropic&amp;logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white)
+
+---
+## `> open opennezt.com`
+
+<div align="center">
+
+[![OpenNezt Coding Assessment](https://img.shields.io/badge/ShopMaNguon.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://opennezt.com)
+
+Mình vận hành **[ShopMaNguon.com](https://shopmanguon.com)** — nơi mua bán source code PHP, script web và plugin được kiểm duyệt kỹ thuật bởi developer thực chiến.
+
+> Đang cần một web bán hàng, hệ thống quản lý, hay tool PHP có sẵn?  
+> → **[Xem sản phẩm tại đây](https://shopmanguon.com)**
+
+</div>
+---
+## `> ls projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Termix SSH Client
+`Electron 28` `React 18` `xterm.js` `ssh2` `Turborepo`
+
+Desktop SSH terminal thay thế Termius. Plugin system, TypeScript strict IPC. Internal → OSS roadmap.
+
+</td>
+<td width="50%" valign="top">
+
+### ATS Scoring Platform
+`Python` `Flask` `React` `Claude API`
+
+Nền tảng chấm điểm CV đa ngôn ngữ (VI/EN/ZH). Weighted scoring + AI gợi ý cải thiện + tạo email ứng tuyển.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenquocanhz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquocanhz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nguyenquocanhz&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)
+
+</div>
+
+---
+
+## `> cat philosophy.txt`
+
+> *"Không cần giỏi nhất ngay từ đầu — cần đủ tò mò để tiếp tục build."*
+
+Bắt đầu từ một đứa 15 tuổi tự mày mò làm web, giờ là Technical Lead tại startup tự gây dựng. Mình tin vào việc học qua dự án thực tế, viết code sạch, và dùng AI như một công cụ — không phải phép màu.
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
+
+<sub>📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
+
+</div>
