@@ -51,7 +51,7 @@ interests   : [ Developer Tooling, AI x Engineering ]
 
 <div align="center">
 
-[![OpenNezt Coding Assessment](https://img.shields.io/badge/OpenNezt.com-Claude%20-7c3aed?style=for-the-badge&logo=opennezt&logoColor=orange)](https://opennezt.com)
+[![OpenNezt Coding Assessment](https://img.shields.io/badge/opennezt.com-Claude%20-7c3aed?style=for-the-badge&logo=opennezt&logoColor=orange)](https://opennezt.com)
 
 </div>
 
