@@ -51,7 +51,7 @@ interests   : [ Developer Tooling, AI x Engineering ]
 
 <div align="center">
 
-[![OpenNezt Coding Assessment](https://img.shields.io/badge/OpenNezt.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://opennezt.com)
+[![OpenNezt Coding Assessment](https://img.shields.io/badge/OpenNezt.com-Claude%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=claude&logoColor=orange)](https://opennezt.com)
 
 </div>
 
