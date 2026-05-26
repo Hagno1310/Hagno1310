@@ -51,38 +51,9 @@ interests   : [ Developer Tooling, AI x Engineering ]
 
 <div align="center">
 
-[![OpenNezt Coding Assessment](https://img.shields.io/badge/ShopMaNguon.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://opennezt.com)
-
-Mình vận hành **[ShopMaNguon.com](https://shopmanguon.com)** — nơi mua bán source code PHP, script web và plugin được kiểm duyệt kỹ thuật bởi developer thực chiến.
-
-> Đang cần một web bán hàng, hệ thống quản lý, hay tool PHP có sẵn?  
-> → **[Xem sản phẩm tại đây](https://shopmanguon.com)**
+[![OpenNezt Coding Assessment](https://img.shields.io/badge/OpenNezt.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://opennezt.com)
 
 </div>
----
-## `> ls projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Termix SSH Client
-`Electron 28` `React 18` `xterm.js` `ssh2` `Turborepo`
-
-Desktop SSH terminal thay thế Termius. Plugin system, TypeScript strict IPC. Internal → OSS roadmap.
-
-</td>
-<td width="50%" valign="top">
-
-### ATS Scoring Platform
-`Python` `Flask` `React` `Claude API`
-
-Nền tảng chấm điểm CV đa ngôn ngữ (VI/EN/ZH). Weighted scoring + AI gợi ý cải thiện + tạo email ứng tuyển.
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## `> git log --stats`
@@ -90,7 +61,7 @@ Nền tảng chấm điểm CV đa ngôn ngữ (VI/EN/ZH). Weighted scoring + AI
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenquocanhz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquocanhz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagno1310&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" />
 
 </div>
 
