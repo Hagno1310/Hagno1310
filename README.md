@@ -54,20 +54,19 @@ interests   : [ Developer Tooling, AI x Engineering ]
 [![OpenNezt Coding Assessment](https://img.shields.io/badge/OpenNezt.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://opennezt.com)
 
 </div>
----
 
 ## `> git log --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenquocanhz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hagno1310&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagno1310&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nguyenquocanhz&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hagno1310&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)
 
 </div>
 
@@ -85,6 +84,6 @@ Bắt đầu từ một đứa 15 tuổi tự mày mò làm web, giờ là Techn
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
 
-<sub>📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
+<sub>📍 Ha Noi City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
 
 </div>
