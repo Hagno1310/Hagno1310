@@ -76,7 +76,7 @@ interests   : [ Developer Tooling, AI x Engineering ]
 
 > *"Không cần giỏi nhất ngay từ đầu — cần đủ tò mò để tiếp tục build."*
 
-Bắt đầu từ một đứa 15 tuổi tự mày mò làm web, giờ là Technical Lead tại startup tự gây dựng. Mình tin vào việc học qua dự án thực tế, viết code sạch, và dùng AI như một công cụ — không phải phép màu.
+Mình tin vào việc học qua dự án thực tế, viết code sạch, và dùng AI như một công cụ — không phải phép màu.
 
 ---
 
