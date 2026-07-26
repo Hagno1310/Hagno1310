@@ -110,14 +110,14 @@ goal_2026: DevOps / Platform Engineering
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hagno1310&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AE2F7&icon_color=6AE2F7&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagno1310&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AE2F7&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hagno1310&show_icons=true&border_color=6AE2F7&border_radius=12&bg_color=0d1117&title_color=6AE2F7&icon_color=6AE2F7&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagno1310&layout=compact&border_color=6AE2F7&border_radius=12&bg_color=0d1117&title_color=6AE2F7&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hagno1310&hide_border=true&background=0d1117&ring=6AE2F7&fire=6AE2F7&currStreakLabel=6AE2F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B98A5&stroke=6AE2F7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hagno1310&border=6AE2F7&border_radius=12&background=0d1117&ring=6AE2F7&fire=6AE2F7&currStreakLabel=6AE2F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B98A5&stroke=6AE2F7)
 
 </div>
 
