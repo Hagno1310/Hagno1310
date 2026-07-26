@@ -129,7 +129,11 @@ goal_2026: DevOps / Platform Engineering
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake.svg?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake.svg?v=3" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake-dark.svg?v=3" />
+</picture>
 
 </div>
 
