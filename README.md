@@ -71,9 +71,11 @@ interests: [Developer Tooling, DevOps, Data Engineering]
 
 ## `> open opennezt.com`
 
+**OpenNezt™** — *AI-Augmented Coding Assessment for the AI Era.* Nền tảng đánh giá cách lập trình viên **cộng tác với AI coding assistant** xuyên suốt workflow, thay vì chỉ chấm code cuối cùng: capture session ở mức keystroke trên nhiều IDE (VS Code, IntelliJ, Cursor, PyCharm), replay timeline, và tổng hợp thành báo cáo có cấu trúc cho đội tuyển dụng kỹ thuật.
+
 <div align="center">
 
-[![OpenNezt](https://img.shields.io/badge/opennezt.com-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://opennezt.com)
+[![OpenNezt Live](https://img.shields.io/badge/opennezt.com-Live_Demo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://opennezt.com)
 
 </div>
 
