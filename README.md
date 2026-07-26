@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AE2F7&center=true&vCenter=true&width=650&height=55&lines=Backend+Developer+%40+OpenNezt;Building+AI-powered+products;On+the+road+to+DevOps+%26+Platform+Engineering)](https://github.com/Hagno1310)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hagno1310-0d1117?style=for-the-badge&logo=github&logoColor=6AE2F7)](https://github.com/Hagno1310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hagno1310-0d1117?style=for-the-badge&logo=linkedin&logoColor=6AE2F7)](https://www.linkedin.com/in/hagno1310/)
-[![Email](https://img.shields.io/badge/Email-hoangnh.ptit-0d1117?style=for-the-badge&logo=gmail&logoColor=6AE2F7)](mailto:hoangnh.ptit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hagno1310-6AE2F7?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Hagno1310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hagno1310-6AE2F7?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/hagno1310/)
+[![Email](https://img.shields.io/badge/Email-hoangnh.ptit-6AE2F7?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:hoangnh.ptit@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Hagno1310&label=Profile%20Views&color=6ae2f7&style=for-the-badge)
 
 </div>
@@ -110,20 +110,19 @@ goal_2026: DevOps / Platform Engineering
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hagno1310&show_icons=true&border_color=6AE2F7&border_radius=12&bg_color=0d1117&title_color=6AE2F7&icon_color=6AE2F7&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagno1310&layout=compact&border_color=6AE2F7&border_radius=12&bg_color=0d1117&title_color=6AE2F7&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hagno1310&border=6AE2F7&border_radius=12&background=00000000&ring=6AE2F7&fire=6AE2F7&currStreakLabel=6AE2F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BA3AF&stroke=6AE2F7" />
+  <img src="https://streak-stats.demolab.com/?user=Hagno1310&border=6AE2F7&border_radius=12&background=00000000&ring=0E7490&fire=0E7490&currStreakLabel=0E7490&sideLabels=1F2937&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280&stroke=0E7490" />
+</picture>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hagno1310&border=6AE2F7&border_radius=12&background=0d1117&ring=6AE2F7&fire=6AE2F7&currStreakLabel=6AE2F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B98A5&stroke=6AE2F7)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hagno1310&bg_color=0d1117&color=6ae2f7&line=6ae2f7&point=ffffff&area_color=6ae2f7&area=true&hide_border=true&title_color=6ae2f7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hagno1310&bg_color=00000000&color=6ae2f7&line=6ae2f7&point=ffffff&area_color=6ae2f7&area=true&hide_border=true&title_color=6ae2f7" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hagno1310&bg_color=00000000&color=0e7490&line=0e7490&point=1f2937&area_color=6ae2f7&area=true&hide_border=true&title_color=0e7490" />
+</picture>
 
 </div>
 
@@ -149,7 +148,7 @@ Mình tin vào việc học qua dự án thực tế, viết code sạch, và d�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22b8d6,100:6ae2f7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:22b8d6,100:6ae2f7&height=120&section=footer" />
 
 <sub>Hà Nội, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
 
