@@ -21,7 +21,7 @@ alias: Nguyn Hoen / Hagno
 role: Backend Developer
 focus: "Backend → DevOps / Infrastructure"
 company: OpenNezt
-location: Hà Nội, Vietnam 🇻🇳
+location: Hà Nội, Vietnam
 education: RIPT - PTIT | GPA 3.59 / 4.0
 started: "~14 tuổi — thích thú với các kiến thức về Công nghệ"
 interests: [Developer Tooling, DevOps, Data Engineering]
@@ -86,7 +86,7 @@ goal_2026: DevOps / Platform Engineering
 
 | Project | Mô tả | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **OpenNezt** 🟢 | AI-augmented coding assessment — đánh giá cách dev cộng tác với AI qua toàn bộ workflow | `NestJS` `LangChain` `MongoDB` `React` | [🌐 Live](https://opennezt.com) |
+| **OpenNezt** | AI-augmented coding assessment — đánh giá cách dev cộng tác với AI qua toàn bộ workflow | `NestJS` `LangChain` `MongoDB` `React` | [Live](https://opennezt.com) |
 | **VAIC** | Real-time speech translation (STT → NMT → TTS) đa ngôn ngữ VI/EN | `FastAPI` `Whisper` `NLLB` `Expo` | [Repo](#) |
 | **Rentra** | Rental platform theo kiến trúc microservices + mobile app | `NestJS` `RabbitMQ` `Redis` `Expo` | [Repo](#) |
 
@@ -129,7 +129,7 @@ goal_2026: DevOps / Platform Engineering
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Hagno1310/Hagno1310/output/github-snake.svg?v=2)
 
 </div>
 
@@ -147,6 +147,6 @@ Mình tin vào việc học qua dự án thực tế, viết code sạch, và d�
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22b8d6,100:6ae2f7&height=120&section=footer" />
 
-<sub>📍 Hà Nội, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
+<sub>Hà Nội, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
 
 </div>
